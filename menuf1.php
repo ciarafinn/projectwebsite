@@ -1,15 +1,14 @@
-<?php
+<<?php
 
 echo '
 <nav>
-<a href="https://bioinfmsc8.bio.ed.ac.uk/s2203554/public_html/project_website/index.php"> Home </a>
-    </div></td>
-<a href="https://bioinfmsc8.bio.ed.ac.uk/s2203554/public_html/project_website/search.php"> Search </a>
-    </div></td> 
-<a href="https://bioinfmsc8.bio.ed.ac.uk/s2203554/public_html/project_website/example.php"> Example Dataset </a>
-    </div></td> 
-<a href="https://bioinfmsc8.bio.ed.ac.uk/s2203554/public_html/project_website/credits.php"> credits </a>
-    </div></td>
+<a href="complib1.php">Home</a> |
+<a href="example.php">Example Dataset</a> |
+<a href="analysis.php">Analyses</a> |
+<a href="credits.php">Credits</a> |
+<a href="results.php">Results</a> |
+<a href="run_analysis.php">Run Analysis</a>
+</nav>
 <hr>
 ';
 
